@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum" "sunrise"
 title: Lennart Heimbs
 description: My public profile page
 logo: https://raw.githubusercontent.com/lheimbs/lheimbs.github.io/master/img/fahrrad_profile.jpg
